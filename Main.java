@@ -7,7 +7,6 @@
 // Bibliotecas utilizadas.
 import java.util.Scanner;
 
-
 /*
  * Clase principal del programa a partir de la cual se implementa el algoritmo. 
  */
